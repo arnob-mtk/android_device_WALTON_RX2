@@ -14,13 +14,13 @@
 
 * Compilation
 
-        # repo init -u git://github.com/fire855/android.git -b cm-12.1
         
-        # repo sync
         
         # source build/envsetup.sh
         
-        # brunch cm_k1_turbo-userdebug
+        # brunch cm_RX2-userdebug
+		
+THIS DEVICE TREE IS FOR WALTON RX2 MT6591SOC POWRED BY ARNOB POROSH
 
 # MTK
 
